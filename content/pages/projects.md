@@ -17,18 +17,111 @@ Inductors should be first designed according to the reference paper from Thomas 
 
 Spectre RF should be used to simulate and fine-tune the amplifier performance - be sure to include the full inductor models (i.e., including loss and parasitic capacitance) in your schematic.
 
-| SpecificationS | ValueS |
-| --- | --- |
-| Power Supply | Single < 1.8 V |
-| Load | 50Ω (resistive) |
-| RF Output Power (at 50Ω load) | 100mW+-10% |
-| Center Frequency | 2.0 GHz |
-| Power Efficiency | \> 75% |
-| RF Input Power | < 20mW |
-| Distortion | < -30dBc |
-| Inductor Q (@2GHz) | Use ASITIC |
-| Capacitor Q (@2GHz) | Infinite |
-| Process | TSMC 0.18µ no high voltage transistor option 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SpecificationS
+{{< thclose >}}
+{{< thopen >}}
+ValueS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Power Supply
+{{< tdclose >}}
+{{< tdopen >}}
+Single \< 1.8 V
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Load
+{{< tdclose >}}
+{{< tdopen >}}
+50Ω (resistive)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RF Output Power (at 50Ω load)
+{{< tdclose >}}
+{{< tdopen >}}
+100mW+-10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Center Frequency
+{{< tdclose >}}
+{{< tdopen >}}
+2.0 GHz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Power Efficiency
+{{< tdclose >}}
+{{< tdopen >}}
+\> 75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+RF Input Power
+{{< tdclose >}}
+{{< tdopen >}}
+\< 20mW
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Distortion
+{{< tdclose >}}
+{{< tdopen >}}
+\< -30dBc
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Inductor Q (@2GHz)
+{{< tdclose >}}
+{{< tdopen >}}
+Use ASITIC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Capacitor Q (@2GHz)
+{{< tdclose >}}
+{{< tdopen >}}
+Infinite
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Process
+{{< tdclose >}}
+{{< tdopen >}}
+TSMC 0.18µ no high voltage transistor option
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
