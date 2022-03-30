@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Transceivers f
   Modulator, SSB Transmitter I etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/30624026937064d06c6438a7a2b5197a_lec2.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec2.pdf
 uid: 30624026-9370-64d0-6c64-38a7a2b5197a

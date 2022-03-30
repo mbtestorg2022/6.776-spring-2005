@@ -11,6 +11,7 @@ description: 'Lecture presentation covering the following topics: VCO design for
   and other types of resonators.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/09efd8ee8026e7e72a53d1fb5117a2d3_lec14.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec14.pdf
 uid: 09efd8ee-8026-e7e7-2a53-d1fb5117a2d3

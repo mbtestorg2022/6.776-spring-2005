@@ -9,6 +9,7 @@ description: 'Lecture presentation covering the following topics: Noise factor a
   impact of differential amplifiers on nonlinearity.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/38ea1be09825024cd20eb09a0d5703d0_lec11.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec11.pdf
 uid: 38ea1be0-9825-024c-d20e-b09a0d5703d0

@@ -8,6 +8,7 @@ description: 'Lecture presentation covering the following topics: Shunt-Series P
   Capacitance, different types of Amplifiers, generators and SAW Filters etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/3e9c40e70c1fc4964f16372c7572daf1_lec9.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec9.pdf
 uid: 3e9c40e7-0c1f-c496-4f16-372c7572daf1

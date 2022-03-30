@@ -8,6 +8,7 @@ description: 'Lecture presentation covering the following topics: Voltage contro
   wave oscillator, ring transmission line principle, and mixers.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/d842102e324c49e1a06a053fc7edf589_lec15.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec15.pdf
 uid: d842102e-324c-49e1-a06a-053fc7edf589

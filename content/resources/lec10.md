@@ -10,6 +10,7 @@ description: 'Lecture presentation covering the following topics: noise modeling
   minimum noise factor.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/f84805c3059b889d31b7c8c2fff86030_lec10.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec10.pdf
 uid: f84805c3-059b-889d-31b7-c8c2fff86030

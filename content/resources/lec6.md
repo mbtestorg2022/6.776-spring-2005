@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Basics of MOS 
   for RF Circuits, Polysilicon and MOS Resistors, and different types of Capacitors  etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/a2408eb19a4ded6f2b8d552688600654_lec6.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec6.pdf
 uid: a2408eb1-9a4d-ed6f-2b8d-552688600654

@@ -7,6 +7,7 @@ description: 'Lecture presentation covering the following topics: VCO noise in w
   etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-776-high-speed-communication-circuits-spring-2005/78bd1d48fc61cbe01ce48035f0174875_lec17.pdf
 file_type: application/pdf
+parent_uid: ad5ac1a3-bf75-d708-1325-0e728f9831b3
 resourcetype: Document
 title: lec17.pdf
 uid: 78bd1d48-fc61-cbe0-1ce4-8035f0174875

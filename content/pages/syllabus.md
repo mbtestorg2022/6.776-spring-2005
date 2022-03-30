@@ -91,7 +91,7 @@ Homework
 Prerequisites
 ----------------
 
-[6.301: Solid-State Circuits](/courses/6-301-solid-state-circuits-fall-2010/) (or equivalent)
+[6.301: Solid-State Circuits](/courses/6-301-solid-state-circuits-fall-2010) (or equivalent)
 
 Resources/Policies
 ------------------

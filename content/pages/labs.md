@@ -23,7 +23,7 @@ We have ordered additional transistors and variable capacitors, in addition to v
 
 ### Models
 
-J310 Spice Model ([SCS](/courses/electrical-engineering-and-computer-science/6-776-high-speed-communication-circuits-spring-2005/labs/jfet.scs))
+J310 Spice Model ({{% resource_link "78984821-a1ad-05ac-6333-283874019730" "SCS" %}})
 
 The J310 Spice model above is compatible with Spectre. This model may or may not be accurate as there are many different manufacturers of J310 transistors and there may be considerable variability in the transistor operating characteristics from lot to lot as well as part to part. I have tweaked the value of the threshold voltage, VTO, in the model based on DC measurements performed on **one** of the transistors. You are encouraged to verify and modify the model, as needed, by comparing simulation results to measured DC characteristics of your specific device. For example, the model currently does not model output conductance. You will want to either measure gds, or find its value from the datasheets at your operating point. Transconductance is another important DC device characteristic you should verify.
 
